@@ -13,5 +13,3 @@ markdown: kramdown
 
 include:
 - _redirects
-
-gem: [jekyll-admin]
