@@ -7,5 +7,3 @@ fields:
   config:
     maxSize: 250
   label: Add Image
-pages:
-- _posts/Post1.md
