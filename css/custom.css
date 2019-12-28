@@ -1,11 +1,10 @@
+body {
+  margin-top: 51px;
+}
 .navbar-brand {
 padding: 4px 12px;
 }
 svg {
   width: auto;
   height: 100%;
-}
-.affix-top svg {
-  fill: white;
-  transition: all 0.35s;
 }
