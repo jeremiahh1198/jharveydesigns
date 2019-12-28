@@ -2,8 +2,11 @@
 label: New post
 hide_body: false
 fields:
-- name: add_image
-  type: file
+- name: first
+  type: blocks
+  label: blocks
+  template_types: []
   config:
-    maxSize: 250
-  label: Add Image
+    min: 
+    max: 
+  description: descript
