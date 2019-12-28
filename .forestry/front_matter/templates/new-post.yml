@@ -1,4 +1,9 @@
 ---
 label: New post
 hide_body: false
-fields: []
+fields:
+- name: add_image
+  type: file
+  config:
+    maxSize: 250
+  label: Add Image
