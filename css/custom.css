@@ -5,6 +5,6 @@ svg {
   width: auto;
   height: 100%;
 }
-.affix-top > svg {
-  fill: #FFFFFF;
+.affix-top svg {
+  fill: white;
 }
