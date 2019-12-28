@@ -2,9 +2,9 @@
 padding: 4px 12px;
 }
 svg {
-  width: 70px;
-  height: 70px;
+  width: auto;
+  height: 100%;
 }
-svg:hover {
+affix-top svg {
   fill: #FFFFFF;
 }
