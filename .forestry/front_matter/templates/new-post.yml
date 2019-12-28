@@ -9,3 +9,4 @@ fields:
   label: Add Image
 pages:
 - _posts/Post1.md
+- uploads/Newest.md
