@@ -1,3 +1,10 @@
 .navbar-brand {
 padding: 4px 12px;
 }
+svg {
+  width: 70px;
+  height: 70px;
+}
+svg:hover {
+  fill: #FFFFFF;
+}
