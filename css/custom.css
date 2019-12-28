@@ -7,4 +7,5 @@ svg {
 }
 .affix-top svg {
   fill: white;
+  transition: all 0.35s;
 }
