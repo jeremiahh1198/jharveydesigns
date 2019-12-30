@@ -29,19 +29,20 @@
 
     // Fit Text Plugin for Main Header
     
-    $("#envisioned").fitText(
+    $("#header1").fitText(
+        1.2, {
+            minFontSize: '35px',
+            maxFontSize: '65px'
+        }
+    );
+    
+    $("#header2").fitText(
         1.2, {
             minFontSize: '70px',
             maxFontSize: '130px'
         }
     );
 
-    $("h1").fitText(
-        1.2, {
-            minFontSize: '35px',
-            maxFontSize: '65px'
-        }
-    );
 
     // Offset for Main Navigation
     $('#mainNav').affix({
