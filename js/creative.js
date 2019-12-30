@@ -29,17 +29,17 @@
 
     // Fit Text Plugin for Main Header
     
-    $("#header1").fitText(
+    $('#header1').fitText(
         1.2, {
-            minFontSize: '35px',
-            maxFontSize: '65px'
+            minFontSize: '30px',
+            maxFontSize: '60px'
         }
     );
     
-    $("#header2").fitText(
+    $('#header2').fitText(
         1.2, {
-            minFontSize: '50px',
-            maxFontSize: '110px'
+            minFontSize: '45px',
+            maxFontSize: '105px'
         }
     );
 
