@@ -38,8 +38,8 @@
     
     $("#header2").fitText(
         1.2, {
-            minFontSize: '60px',
-            maxFontSize: '120px'
+            minFontSize: '50px',
+            maxFontSize: '110px'
         }
     );
 
