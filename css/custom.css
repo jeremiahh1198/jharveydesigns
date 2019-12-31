@@ -11,3 +11,6 @@ svg {
 #header1 {
 font-weight: 400;
 }
+.service-box {
+padding: 0 10px;
+}
