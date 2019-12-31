@@ -7,7 +7,6 @@ sections:
 - type: document
   path: fonts
   label: fonty
-  match: "**/*"
 - type: directory
   path: fonts
   label: fonts

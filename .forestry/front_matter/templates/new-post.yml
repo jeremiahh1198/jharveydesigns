@@ -10,3 +10,5 @@ fields:
     min: 
     max: 
   description: descript
+pages:
+- _posts/name.md
