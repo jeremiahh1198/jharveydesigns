@@ -10,6 +10,7 @@ svg {
 }
 #header1 {
 font-weight: 400;
+text-transform: capitalize;
 }
 .service-box {
 padding: 0 10px;
