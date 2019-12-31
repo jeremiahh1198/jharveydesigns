@@ -31,8 +31,8 @@
     
     $('#header1').fitText(
         1.2, {
-            minFontSize: '30px',
-            maxFontSize: '60px'
+            minFontSize: '20px',
+            maxFontSize: '50px'
         }
     );
     
