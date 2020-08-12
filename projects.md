@@ -5,6 +5,7 @@ description: Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempu
   adipiscing nulla.
 image: assets/images/pic07.jpg
 nav-menu: true
+permalink: /projects/
 
 ---
 <!-- Main -->
