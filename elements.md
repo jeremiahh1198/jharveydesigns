@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: allposts
 title: Blog
 nav-menu: true
 
