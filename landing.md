@@ -1,11 +1,12 @@
 ---
-title: Landing
+title: Projects
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus
+  adipiscing nulla.
 image: assets/images/pic07.jpg
 nav-menu: true
----
 
+---
 <!-- Main -->
 <div id="main">
 
