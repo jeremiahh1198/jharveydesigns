@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Blog
 nav-menu: true
 
 ---
