@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Elements
+title: Projects
 nav-menu: true
----
 
+---
 <!-- Main -->
 <div id="main" class="alt">
 
