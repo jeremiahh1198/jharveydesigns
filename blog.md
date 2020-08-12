@@ -2,7 +2,7 @@
 layout: allposts
 title: Blog
 nav-menu: true
-permalink: /blog/
+permalink: /blog
 
 ---
 <!-- Main -->
