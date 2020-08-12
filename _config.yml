@@ -5,12 +5,12 @@ email: jharveydesigner@gmail.com
 description: I love to create things and <br />share them with the world.
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address:
+city:
+state:
+zip_code:
+country:
+phone: (561) 247-0631
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -18,15 +18,15 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/jharveydesigns
 github_url:
-gitlab_url: https://github.com/jeremiahh1198/jharveydesigns
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+googleplus_url:
+instagram_url: https://instagram.com/jharveydesigner
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/jharveydesigner
 
 # build settings
 markdown: kramdown
