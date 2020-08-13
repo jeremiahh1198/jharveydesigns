@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: landing
 title: Blog
 nav-menu: true
 permalink: /blog
