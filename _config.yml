@@ -16,6 +16,14 @@ phone: (561) 247-0631
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      permalink: blog/:categories/:year/:month/:title/
+
 # social settings
 500px_url:
 facebook_url: https://www.facebook.com/jharveydesigner
