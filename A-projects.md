@@ -1,8 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus
-  adipiscing nulla.
+description: View my past and current projects that I'm working on.
 image: assets/images/projects-bg.jpg
 nav-menu: true
 permalink: /projects
