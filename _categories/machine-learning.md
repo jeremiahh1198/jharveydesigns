@@ -4,6 +4,6 @@ title: Graphic Design
 description:
 image:
 nav-menu: false
-permalink: categories/:title
+permalink: blog/categories/:title
 
 ---
