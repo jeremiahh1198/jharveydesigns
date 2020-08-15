@@ -5,6 +5,7 @@ description: Ipsum dolor sit amet
 image: assets/images/pic01.jpg
 permalink: blog/:title
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat eu urna non fringilla. Pellentesque tortor massa, laoreet vel finibus in, maximus sit amet leo.
+category: Machine Learning
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
