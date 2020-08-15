@@ -2,6 +2,7 @@
 layout: home
 title: Home
 landing-title: Hi, my name is Jeremiah
+subhead: Who I Am
 description: 
 image: 
 author: 
