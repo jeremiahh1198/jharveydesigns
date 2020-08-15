@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Became an Overnight Artist by Using AI
+title: How I Became an Overnight Artist Thanks to AI
 description: Ipsum dolor sit amet
 image: assets/images/pic01.jpg
 permalink: blog/:title
