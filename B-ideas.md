@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ideas
-description: Lorem ipsum dolor est
+description: Discover the crazy ideas I want to bring to life.
 image: assets/images/ideas-bg.jpg
 nav-menu: true
 permalink: /ideas
