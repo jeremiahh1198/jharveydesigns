@@ -1,6 +1,7 @@
 ---
 layout: allposts
 title: Blog
+image: assets/images/blog-bg.jpg
 nav-menu: true
 permalink: /blog
 
