@@ -2,7 +2,7 @@
 layout: post
 title: Ideas
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/ideas-bg.jpg
 nav-menu: true
 permalink: /ideas
 
