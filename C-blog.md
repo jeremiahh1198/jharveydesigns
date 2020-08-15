@@ -1,6 +1,7 @@
 ---
 layout: allposts
 title: Blog
+description: Read about my passions and what fascinates me.
 image: assets/images/blog-bg.jpg
 nav-menu: true
 permalink: /blog
