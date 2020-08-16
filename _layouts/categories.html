@@ -16,12 +16,12 @@
     <!-- Main -->
     <div id="main" class="alt">
 
-      <h1>{{ page.cat }}</h1>
+      <h1>{{ page.title }}</h1>
 
       <!-- One -->
       <section id="one">
 	<div class="inner">
-          {% for post in site.posts %}
+          {% for post in site.categories[page.cat] %}
 	  {% if post.title != 404 %}
 	  <header class="major">
 	    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
