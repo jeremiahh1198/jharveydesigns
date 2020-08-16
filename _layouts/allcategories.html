@@ -21,7 +21,7 @@
 	<div class="inner">
           {% for category in site.categories %}
 	  <header class="major">
-	    <h1>{{ category | first }}</h1>
+	    <h1><a href="{{ site.url }}/blog/categories/{{ category | first }}">{{ site.data.categories[category | first] }}</a></h1>
 	  </header>
           {% endfor %}
 	</div>
