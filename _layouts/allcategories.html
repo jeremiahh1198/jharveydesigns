@@ -21,7 +21,7 @@
 	<div class="inner">
           {% for category in site.categories %}
 	  <header class="major">
-	    <h1>{{ category }}</h1>
+	    <h1>{{ category | first }}</h1>
 	  </header>
           {% endfor %}
 	</div>
