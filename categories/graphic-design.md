@@ -5,6 +5,6 @@ description:
 image:
 nav-menu: false
 permalink: blog/categories/graphic-design
-cat-alias: graphic-design
+cat: graphic-design
 
 ---
