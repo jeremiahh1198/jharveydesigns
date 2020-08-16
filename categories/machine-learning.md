@@ -4,6 +4,6 @@ title: Machine Learning
 description:
 image:
 nav-menu: false
-permalink: blog/categories/:title
+permalink: blog/categories/machine-learning
 
 ---
