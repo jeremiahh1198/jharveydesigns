@@ -31,3 +31,7 @@ sass:
 
 include:
 - _redirects
+
+collections:
+  projects:
+    output: true
