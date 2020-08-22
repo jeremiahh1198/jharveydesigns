@@ -4,5 +4,7 @@
 svg {
   width: auto;
   height: 100%;
+}
+.logo img {
   padding: 5px;
 }
