@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: maintenance
 title: Ideas
 description: Discover the crazy ideas I want to bring to life.
 image: assets/images/ideas-bg.jpg
