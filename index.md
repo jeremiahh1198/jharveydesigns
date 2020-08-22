@@ -9,4 +9,4 @@ author:
 show_tile: false
 
 ---
-Since for as long as I can remember, I've had a genuine fascination for how things work and enjoy designing and creating new things to share with the world. I have over 8 years of experience in the field of Information Technology, and I am now actively studying Machine Learning and at constant work to integrate this new advancement of technology into the workplace. I spend my free time exploring new and unusual concepts of design, programming, and music. Take a look around and enjoy my ever-growing portfolio of unique work.
+For as long as I can remember, I’ve had a genuine fascination for science: to discover why things work the way they do. Having a deep interest in computer science, I've accumulated over 8 years of experience in the field of Information Technology. I currently study Machine Learning and strive to integrate this new advancement of technology more commonly in the workplace. I spend my free time approaching complex problems by exploring new and unusual concepts of design, programming, and music. Take a look around and enjoy my ever-growing portfolio of unique work.
