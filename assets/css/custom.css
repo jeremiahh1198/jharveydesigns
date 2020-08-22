@@ -1,3 +1,7 @@
 #category-tag {
   font-weight: bold;
 }
+svg {
+  width: auto;
+  height: 100%;
+}
