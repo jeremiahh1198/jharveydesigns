@@ -1,6 +1,6 @@
 ---
+layout: maintenance
 title: Projects
-layout: landing
 description: View my past and current projects I'm working on.
 image: assets/images/projects-bg.jpg
 nav-menu: true
