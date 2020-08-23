@@ -7,6 +7,9 @@ nav-menu: true
 permalink: /ideas
 
 ---
+<!-- Main -->
+<div id="main">
+
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -16,3 +19,5 @@ permalink: /ideas
 </div>
 	</div>
 </section>
+
+</div>
