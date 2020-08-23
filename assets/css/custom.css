@@ -12,3 +12,6 @@ svg {
   margin-top: 4rem;
   margin-bottom: 7rem;
 }
+#maintenance h3 {
+font-weight: normal;
+}
