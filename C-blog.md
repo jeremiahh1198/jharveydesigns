@@ -7,6 +7,9 @@ nav-menu: true
 permalink: /blog
 
 ---
+<!-- Main -->
+<div id="main">
+
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -16,3 +19,5 @@ permalink: /blog
 </div>
 	</div>
 </section>
+
+</div>
