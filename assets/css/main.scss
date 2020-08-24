@@ -93,6 +93,8 @@
                 flex-direction: row-reverse;
                 align-items: center;
                 justify-content: center;
+                flex-grow: 1;
+                flex-basis: 0;
 
 		@include breakpoint(small) {
 			flex-direction: column;
