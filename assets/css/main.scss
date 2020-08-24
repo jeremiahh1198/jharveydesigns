@@ -89,12 +89,10 @@
                 width: 100%;
                 }
                 @include vendor('display', 'flex');
-                
+                flex-direction: row-reverse;
 
 		@include breakpoint(small) {
-			@include padding(3em, 0, (2em, 0, 0, 0));
-			height: auto;
-			margin-bottom: -2.75em;
+			flex-direction: column;
 		}
 
 		
