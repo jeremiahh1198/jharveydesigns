@@ -82,13 +82,12 @@
 /* Me */
 
 	#contact-pair {
-                width: 100%;
                 img {
-                width: 50%;
+                width: 100%;
                 height: auto;
                 }
                 p {
-                width: 50%;
+                width: 100%;
                 }
                 @include vendor('display', 'flex');
                 flex-direction: row-reverse;
