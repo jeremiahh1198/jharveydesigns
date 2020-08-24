@@ -89,8 +89,9 @@
 		div {
 		width: 100%;
 		}
-                p {
+                #par {
                 width: 100%;
+	        margin-right: 4rem;
                 }
                 @include vendor('display', 'flex');
                 flex-direction: row-reverse;
