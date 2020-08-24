@@ -83,10 +83,11 @@
 
 	#contact-pair {
                 img {
-                width: 100%;
+                width: 50%;
+                height: auto;
                 }
                 p {
-                width: 100%;
+                width: 50%;
                 }
                 @include vendor('display', 'flex');
                 flex-direction: row-reverse;
